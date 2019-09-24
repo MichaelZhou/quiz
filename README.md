@@ -1,5 +1,7 @@
 # quiz
 
+Quiz web app that asks the user 10 random trivia questions, and keeps track of their score.
+
 ## Project setup
 ```
 npm install
